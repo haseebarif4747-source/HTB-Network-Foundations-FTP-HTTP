@@ -66,3 +66,4 @@ This documentation is intended for educational purposes and reflects work perfor
 
 Platform: Hack The Box Academy  
 Focus: Network Foundations | FTP | HTTP
+
